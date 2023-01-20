@@ -1,0 +1,57 @@
+body{
+    background-color:rgb(58, 59, 58);
+    text-align: center;
+}
+
+#heading{
+    padding: 3% 15% 5%;
+}
+
+.medal{
+    width:100%;
+}
+
+.invisible{
+    visibility: hidden;
+}
+
+.title-panel{
+    margin:auto;
+}
+
+.title{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 8rem;
+    color: rgb(57, 209, 209);
+}
+
+#game{
+    padding: 1%;
+}
+
+.game-panel{
+    width:40%;
+
+    margin: auto;
+}
+
+.player{
+    font-family: 'Rock Salt', cursive;
+    font-size: 1.5rem;
+    color: rgb(57, 209, 209);
+    margin-bottom:50px;
+}
+
+.die{
+    width:80%;
+}
+
+#footer{
+    padding: 7% 15% 0;
+}
+
+.copyright{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 1.2rem;
+    color:azure;
+}
